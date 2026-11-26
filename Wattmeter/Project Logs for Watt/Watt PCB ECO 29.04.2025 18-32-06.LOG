@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetU2_10 Pin=U3-18
+Removed Pin From Net: NetName=NetU2_11 Pin=U3-19
+Added Pin To Net: NetName=NetU2_11 Pin=U3-18
+Added Pin To Net: NetName=NetU2_10 Pin=U3-19
+Added Member To Class: ClassName=Watt Member=Component J2 Current Transformer
+Added Room: Name=Watt

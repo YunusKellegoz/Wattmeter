@@ -1,0 +1,4 @@
+Remove Pin=FL1-2 From Net=ACOUT-2
+Remove Pin=FL1-3 From Net=ACOUT-1
+Remove Pin=PS1-1 From Net=ACOUT-2
+Remove Pin=PS1-2 From Net=ACOUT-1

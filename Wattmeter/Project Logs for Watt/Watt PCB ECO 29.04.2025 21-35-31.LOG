@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-1
+Removed Pin From Net: NetName=NetFB1_1 Pin=J1-2
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=J2 NewDesignator=J?
+Added Pin To Net: NetName=NetC1_1 Pin=J?-2
+Added Pin To Net: NetName=NetFB1_1 Pin=J?-3
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ?_1
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ?_2
+Added Member To Class: ClassName=Watt Member=Component J? YK3030323000G
+Added Member To Class: ClassName=Watt Member=Component J? YK3210203000G
+Added Room: Name=Watt

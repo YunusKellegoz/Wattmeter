@@ -1,0 +1,33 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Free Documents]
+   Generated File[Watt_Copper_Signal_Top.gbr]
+   Generated File[Watt_Copper_Signal_Bot.gbr]
+   Generated File[Watt_Pads_Bot.gbr]
+   Generated File[Watt_Pads_Top.gbr]
+   Generated File[Watt_Legend_Bot.gbr]
+   Generated File[Watt_Soldermask_Bot.gbr]
+   Generated File[Watt_Paste_Bot.gbr]
+   Generated File[Watt_Legend_Top.gbr]
+   Generated File[Watt_Paste_Top.gbr]
+   Generated File[Watt_Soldermask_Top.gbr]
+   Generated File[Watt_Mechanical_13.gbr]
+   Generated File[Watt_Top_3D_Body.gbr]
+   Generated File[Watt_Top_Assembly.gbr]
+   Generated File[Watt_Top_Component_Center.gbr]
+   Generated File[Watt_Mechanical_1.gbr]
+   Generated File[Watt_Top_Courtyard.gbr]
+   Generated File[Watt_Mechanical_15.gbr]
+   Generated File[Watt_Profile.gbr]
+   Generated File[Watt_NPTH_Drill.gbr]
+   Generated File[Watt_PTH_Drill.gbr]
+   Generated File[Watt_Drawing_1.gbr]
+   Generated File[Watt_Drillmap_1.gbr]
+   Generated File[Watt.EXTREP]
+   Generated File[Watt.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 17:36:45 On 8.05.2025

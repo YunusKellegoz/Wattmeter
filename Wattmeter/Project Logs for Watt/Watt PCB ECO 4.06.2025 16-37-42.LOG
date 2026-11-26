@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetC1_1 Pin=FL1-2
+Added Pin To Net: NetName=ACOUT-2 Pin=FL1-3
+Added Pin To Net: NetName=ACOUT-1 Pin=FL1-4
+Added Pin To Net: NetName=NetFL1_1 Pin=FL1-1
+Added Pin To Net: NetName=NetFL1_1 Pin=RT1-2
+Added Net: Name=NetFL1_1
+Added Room: Name=Watt

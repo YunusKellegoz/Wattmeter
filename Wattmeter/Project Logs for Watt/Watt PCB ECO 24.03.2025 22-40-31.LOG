@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=L1-1
+Removed Pin From Net: NetName=NetC2_1 Pin=PS1-3
+Removed Pin From Net: NetName=GND-2 Pin=PS1-4
+Added Pin To Net: NetName=GND-2 Pin=PS1-3
+Added Pin To Net: NetName=NetC2_1 Pin=PS1-4
+Added Room: Name=Watt
